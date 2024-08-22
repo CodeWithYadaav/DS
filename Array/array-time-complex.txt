@@ -1,0 +1,15 @@
+Array-Big-O-complexity
+
+insert/remove from end---> O(1)
+
+insert/remove from begining----> O(n)
+
+Access---> O(1)
+
+search----> O(n)
+
+Push/Pop---> O(1)
+
+Shift/Unshift/Concat/Slice/Splice---> O(n)
+
+ForEach/Map/Reduce/Filter---> O(n)
