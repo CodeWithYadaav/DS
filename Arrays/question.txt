@@ -1,0 +1,73 @@
+ARRAYS-------------------->
+
+1. Find the Maximum and Minimum:
+Write a function to find the maximum and minimum elements in an array.
+
+2. Reverse an Array:
+Write a function that reverses an array in place.
+
+Remove Duplicates from Sorted Array:
+Write a function that removes duplicates from a sorted array and returns the new length.
+
+Rotate Array:
+Write a function to rotate an array by k steps to the right.
+
+Find Pair with Given Sum:
+Write a function that finds a pair of numbers in an array that adds up to a specific target sum.
+
+Merge Two Sorted Arrays:
+Write a function that merges two sorted arrays into one sorted array.
+
+Move Zeroes:
+Write a function that moves all zeroes in an array to the end while maintaining the order of other elements.
+
+Find Missing Number:
+Write a function to find the missing number in a sequence of numbers from 1 to n.
+
+Find Duplicates:
+Write a function that finds all duplicate numbers in an array.
+
+Find Intersection of Two Arrays:
+Write a function that finds the intersection of two arrays.
+
+Find the Largest Sum Contiguous Subarray:
+Implement Kadane’s Algorithm to find the largest sum of a contiguous subarray.
+
+Subarray with Given Sum:
+Write a function that finds a subarray with a given sum in a non-negative array.
+
+Find the Second Largest Element:
+Write a function to find the second largest element in an array.
+
+Product of Array Except Self:
+Write a function that returns an array where each element is the product of all the elements of the input array except itself, without using division.
+
+Maximum Product Subarray:
+Write a function to find the contiguous subarray within an array that has the largest product.
+
+Merge Intervals:
+Write a function that merges overlapping intervals in an array of intervals.
+
+Find the First Missing Positive:
+Write a function to find the first missing positive integer in an array.
+
+Find the Longest Consecutive Sequence:
+Write a function that finds the length of the longest consecutive elements sequence.
+
+Find Common Elements in Three Sorted Arrays:
+Write a function to find common elements in three sorted arrays.
+
+Array Partitioning:
+Write a function to partition an array such that all elements smaller than a pivot appear before elements larger than the pivot.
+
+Find Median of Two Sorted Arrays:
+Write a function to find the median of two sorted arrays of possibly different sizes.
+
+Check if Array is Sorted and Rotated:
+Write a function to check if an array is sorted and then rotated.
+
+Majority Element:
+Write a function that finds the majority element in an array (the element that appears more than ⌊n/2⌋ times).
+
+Find Peak Element:
+Write a function to find a peak element in an array (an element that is greater than its neighbors).
